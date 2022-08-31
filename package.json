@@ -3682,7 +3682,7 @@
 		"package-web": "webpack --mode production --devtool hidden-source-map --config ./build/web-extension.webpack.config.js"
 	},
 	"devDependencies": {
-		"@types/glob": "^7.1.4",
+		"@types/glob": "^8.0.0",
 		"@types/mocha": "^9.0.0",
 		"@types/node": "^16.10.3",
 		"@types/sinon": "^10.0.4",
@@ -3694,7 +3694,7 @@
 		"assert": "^2.0.0",
 		"eslint": "^7.32.0",
 		"eslint-config-prettier": "^8.3.0",
-		"glob": "^7.2.0",
+		"glob": "^8.0.3",
 		"mocha": "^8.4.0",
 		"prettier": "^2.4.1",
 		"process": "^0.11.10",
